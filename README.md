@@ -1,7 +1,5 @@
 # Taller *Recogito*
-Una prueba para ver si se sube
-
-El propósito de este taller es ofrecer una introducción al etiquetado de textos con RECOGITO. Los asistentes aprenderán, a etiquetar  lugares,  persona o eventos
+ El propósito de este taller es ofrecer una introducción al etiquetado de textos con RECOGITO. Los asistentes aprenderán, a etiquetar  lugares,  persona o eventos
 
 ## Objetivos
 ### Anotación de fuentes en formato de texto
