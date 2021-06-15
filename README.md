@@ -28,7 +28,7 @@ Vasos de Vicarello
 
 
 ## Bibliografía
-
+- https://programminghistorian.org/en/lessons/intro-to-linked-data
 
 ## Enlaces de interés
 - https://github.com/cite-architecture/cts_spec/blob/master/md/specification.md
