@@ -14,7 +14,7 @@ Los asistentes aprenderán cómo beneficiarse del reconocimiento automático de 
 ## Ejercicios prácticos
 En esta sesión se llevarán a cabo tres ejercicios de anotación con el objetivo de aprender el funcionamiento de la aplicación.
 
-### Ejemplo1. [Contribution guidelines for this project](texto/readme.md)(/texto/readme.md)
+### [Ejemplo1 ](/texto/readme.md)
 
 Texto: [Argentina Manuscrita. Rui Díaz de Gúzman](http://www.cervantesvirtual.com/obra-visor/historia-argentina-del-descubrimiento-poblacion-y-conquista-de-las-provincias-del-rio-de-la-plata--0/html/ff57d7e8-82b1-11df-acc7-002185ce6064_12.html "Argentina Manuscrita. Rui Díaz de Gúzman")
 
