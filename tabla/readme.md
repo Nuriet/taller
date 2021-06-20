@@ -1,4 +1,4 @@
-# Imágenes
+# Tabla
 
 ## 1. Vasos de Vicarello
 
