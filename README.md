@@ -28,7 +28,13 @@ Vasos de Vicarello
 
 
 ## Bibliografía
+- https://pro.europeana.eu/page/issue-12-pelagios#using-recogito-in-the-ottoman-history-classroom
+- https://medium.com/pelagios/linked-open-data-to-navigate-the-past-using-peripleo-in-class-4286b3089bf3
+- https://pro.europeana.eu/page/issue-12-pelagios#alternative-uses-of-recogito
+- https://pro.europeana.eu/page/issue-12-pelagios#annotating-16th-century-mexican-historical-maps-with-recogito
+- https://eprints.lancs.ac.uk/id/eprint/86362/1/Linked_Data_Annotation_Without_the_Pointy_Brackets.pdf
 - https://programminghistorian.org/en/lessons/intro-to-linked-data
+- https://blog.salamanca.school/en/2016/11/15/whats-in-a-uri-part-1/
 
 ## Enlaces de interés
 - https://github.com/cite-architecture/cts_spec/blob/master/md/specification.md

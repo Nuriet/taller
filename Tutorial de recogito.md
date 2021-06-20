@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 # Taller *Recogito*
 
-Index
+Índice
 
 CREATING AN ACCOUNT
 * [Signing up](https://github.com/pelagios/pelagios.github.io/wiki/Recogito-Tutorial:-Signing-Up)
