@@ -18,12 +18,12 @@ En esta sesión se llevarán a cabo tres ejercicios de anotación con el objetiv
 
 Texto: [Argentina Manuscrita. Rui Díaz de Gúzman](http://www.cervantesvirtual.com/obra-visor/historia-argentina-del-descubrimiento-poblacion-y-conquista-de-las-provincias-del-rio-de-la-plata--0/html/ff57d7e8-82b1-11df-acc7-002185ce6064_12.html "Argentina Manuscrita. Rui Díaz de Gúzman")
 
-### Ejemplo2
+### [Ejemplo2](/imagenes/readme.md)
 Imagen: [Atlas de Benincasa: Atlas Egerton MS 2855. 1473.](https://data.bl.uk/pelagios/pel01.html "Atlas de Benincasa: Atlas Egerton MS 2855. 1473")   
 
 
 
-### Ejemplo3
+### [Ejemplo3](/tabla/readme.md)
 Vasos de Vicarello
 
 
