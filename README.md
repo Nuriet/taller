@@ -41,3 +41,4 @@ Vasos de Vicarello
 - https://iiif.io/
 - https://creativecommons.org/licenses/?lang=es
 - https://programminghistorian.org/en/lessons/intro-to-linked-data
+- https://stanfordnlp.github.io/CoreNLP/ner.html#description
