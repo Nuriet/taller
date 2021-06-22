@@ -1,0 +1,7 @@
+Duque, https://www.wikidata.org/wiki/Q166886
+Adelantado, https://www.wikidata.org/wiki/Q354097
+Conde, https://www.wikidata.org/wiki/Q3519259
+Título nobiliario, https://www.wikidata.org/wiki/Q355567
+Conquistador, https://www.wikidata.org/wiki/Q126236
+Navegante, https://www.wikidata.org/wiki/Q254651
+Militar, https://www.wikidata.org/wiki/Q1791716
